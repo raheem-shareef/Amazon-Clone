@@ -1,10 +1,15 @@
 # Amazon.Com Clone 
 
 Made by Using HTML, CSS.
+<br>
 Credits to Apna College.
+<br>
 Made By Me But Not Completely On My Own.
+<br>
 Seeing The Tutorial of Apna college. <a href="https://youtu.be/nGhKIC_7Mkk" target="_main">Apna College Amazon.Com Clone Tutorial</a>
+<br>
 I Understood Like How Are Big Websites Created After Creating The First Website's(Front End).
+<br>
 This is Just The User Interface Demo It Is Not That Functional As It Is My First Project, Like For Practicing The Layout, Style, And Structure.
 
 # View Locally
