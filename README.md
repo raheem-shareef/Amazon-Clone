@@ -6,7 +6,9 @@ Credits to Apna College.
 <br>
 Made By Me But Not Completely On My Own.
 <br>
-Seeing The Tutorial of Apna college. Open This Link <a href="https://youtu.be/nGhKIC_7Mkk">Apna College Amazon.Com Clone Tutorial</a> By Right Clicking and Select Open In a New Tab
+Seeing The Tutorial of Apna college. 
+<br>
+Open This Link <a href="https://youtu.be/nGhKIC_7Mkk">Apna College Amazon.Com Clone Tutorial</a> By Right Clicking and Select Open In a New Tab
 <br>
  [or you can also open it just by clicking it but it will open in the same tab so you have to press back] 
 <br>
